@@ -1,7 +1,7 @@
 # DARC OV „Pentacon Dresden“
 DARC - Deutscher Amateur Radio Club e.V.
 
-Seeh http://www.darc.de/
+See http://www.darc.de/
 
 This is section (Ortsverband) „Pentacon Dresden“, DOK S09.
 
